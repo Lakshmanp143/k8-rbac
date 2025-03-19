@@ -46,7 +46,7 @@ metadata:
   name: default-trainee
 subjects:
 - kind: User
-  name: Lakshman # "name" is case sensitive
+  name: Expense # "name" is case sensitive
   apiGroup: rbac.authorization.k8s.io
 roleRef:
   kind: ClusterRole
